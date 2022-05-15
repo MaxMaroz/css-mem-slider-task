@@ -1,0 +1,66 @@
+html{
+	background: black;
+	/*width: 1920px;
+	height: 1080px;*/
+}
+.meme{}
+#mem{
+	position: relative;
+	max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: none;
+}
+
+#m_text{
+	color: white;
+	
+	font-size: 20px;
+	position: relative;
+	max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: none;
+    text-align: left;
+    left: 365px;
+}
+.button {
+	position: relative;
+    background-color: royalblue; /* Green */
+    border: none;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /*font-size: 16px;*/
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+   	float: right;
+   	right: 23%;
+}
+
+.button1 {
+	position: absolute;
+    background-color: white; /* Green */
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /*font-size: 16px;*/
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+   	float: right;
+   	top: 1px;
+   	right: 31%;
+}
+
+@media (max-width: 767px){
+	
+}
